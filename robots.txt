@@ -27,4 +27,4 @@ User-agent: CCBot
 Allow: /
 
 # Sitemap
-Sitemap: https://www.apoemaboutlove.com/sitemap.xml
+Sitemap: https://apoemaboutlove.com/sitemap.xml
