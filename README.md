@@ -1,2 +1,1 @@
-# apoemaboutlove.com
-apoemaboutlove.com
+Static site.
